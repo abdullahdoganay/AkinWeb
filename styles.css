@@ -1,0 +1,71 @@
+body {
+  padding: 10px;
+}
+
+.title-image {
+  text-align: center;
+  border-radius: 30px;
+  width: 420px;
+}
+
+.selam {
+  margin-top: 20px;
+}
+
+hr {
+  margin: 5px;
+}
+
+.about-image {
+  width: 420px;
+}
+
+.aboutTitle {
+  font-size: 120px;
+}
+
+.title1 {
+  font-size: 100px;
+}
+
+.journal-photos {
+  width: 400px;
+  border-radius: 30px;
+}
+
+.title2 {
+  font-size: 80px;
+  margin: 0;
+  padding: 0;
+}
+
+.title3 {
+  font-size: 60px;
+}
+
+.contactMail {
+  margin-top: 170px;
+  padding-bottom: 0;
+  margin-bottom: 0;
+  font-size: 20px;
+}
+
+.font1 {
+  font-family: 'Montserrat', sans-serif;
+}
+
+.navbar {
+  font-family: 'Montserrat', sans-serif;
+}
+
+.title {
+  font-family: 'Nuosu SIL', serif;
+}
+
+.footerContact {
+  font-family: 'Montserrat', sans-serif;
+}
+
+.aboutText {
+  font-size: 20px;
+}
